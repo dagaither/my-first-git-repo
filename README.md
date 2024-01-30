@@ -1,5 +1,5 @@
 ## my-first-repo
 
 Please enjoy:
-# a simple python program
-# a poem by GK Chesterton
+1. a simple python program
+2. a poem by GK Chesterton
