@@ -1,6 +1,6 @@
 ## my-first-repo
 
 Please enjoy:
-1. a simple python program
-2. a text file
-3. a poem by GK Chesterton
+1. A simple python program
+2. A text file
+3. A poem by GK Chesterton
