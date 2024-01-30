@@ -1,3 +1,5 @@
 ## my-first-repo
 
-Nothing right now.  Check back later...
+Please enjoy:
+# a simple python program
+# a poem by GK Chesterton
